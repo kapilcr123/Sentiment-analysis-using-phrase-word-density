@@ -1,0 +1,186 @@
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Akashya Burhde_Twitter\Akzz_Twitter\Akzz_Twitter\obj\x86\Debug\Twitter_Event_Detection.Cluster_Graph.resources
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Akashya Burhde_Twitter\Akzz_Twitter\Akzz_Twitter\obj\x86\Debug\Akzz_Twitter.Properties.Resources.resources
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Akashya Burhde_Twitter\Akzz_Twitter\Akzz_Twitter\obj\x86\Debug\Twitter_Event_Detection.twitter_main.resources
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Akashya Burhde_Twitter\Akzz_Twitter\Akzz_Twitter\obj\x86\Debug\Akzz_Twitter.csproj.GenerateResource.Cache
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Akashya Burhde_Twitter\Akzz_Twitter\Akzz_Twitter\bin\Debug\Akzz_Twitter.exe
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Akashya Burhde_Twitter\Akzz_Twitter\Akzz_Twitter\bin\Debug\Akzz_Twitter.pdb
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Akashya Burhde_Twitter\Akzz_Twitter\Akzz_Twitter\bin\Debug\Microsoft.GLEE.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Akashya Burhde_Twitter\Akzz_Twitter\Akzz_Twitter\bin\Debug\Microsoft.GLEE.Drawing.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Akashya Burhde_Twitter\Akzz_Twitter\Akzz_Twitter\bin\Debug\Microsoft.GLEE.GraphViewerGDI.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Akashya Burhde_Twitter\Akzz_Twitter\Akzz_Twitter\bin\Debug\Microsoft.Msagl.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Akashya Burhde_Twitter\Akzz_Twitter\Akzz_Twitter\bin\Debug\OpenNLP.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Akashya Burhde_Twitter\Akzz_Twitter\Akzz_Twitter\bin\Debug\SharpEntropy.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Akashya Burhde_Twitter\Akzz_Twitter\Akzz_Twitter\bin\Debug\SharpEntropySqlite.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Akashya Burhde_Twitter\Akzz_Twitter\Akzz_Twitter\bin\Debug\SharpWordNet.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Akashya Burhde_Twitter\Akzz_Twitter\Akzz_Twitter\bin\Debug\System.Data.SQLite.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Akashya Burhde_Twitter\Akzz_Twitter\Akzz_Twitter\bin\Debug\ZedGraph.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Akashya Burhde_Twitter\Akzz_Twitter\Akzz_Twitter\bin\Debug\Microsoft.GLEE.pdb
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Akashya Burhde_Twitter\Akzz_Twitter\Akzz_Twitter\bin\Debug\Microsoft.GLEE.Drawing.pdb
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Akashya Burhde_Twitter\Akzz_Twitter\Akzz_Twitter\bin\Debug\Microsoft.GLEE.GraphViewerGDI.pdb
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Akashya Burhde_Twitter\Akzz_Twitter\Akzz_Twitter\bin\Debug\ZedGraph.xml
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Akashya Burhde_Twitter\Akzz_Twitter\Akzz_Twitter\bin\Debug\de\ZedGraph.resources.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Akashya Burhde_Twitter\Akzz_Twitter\Akzz_Twitter\bin\Debug\es\ZedGraph.resources.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Akashya Burhde_Twitter\Akzz_Twitter\Akzz_Twitter\bin\Debug\fr\ZedGraph.resources.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Akashya Burhde_Twitter\Akzz_Twitter\Akzz_Twitter\bin\Debug\hu\ZedGraph.resources.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Akashya Burhde_Twitter\Akzz_Twitter\Akzz_Twitter\bin\Debug\it\ZedGraph.resources.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Akashya Burhde_Twitter\Akzz_Twitter\Akzz_Twitter\bin\Debug\ja\ZedGraph.resources.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Akashya Burhde_Twitter\Akzz_Twitter\Akzz_Twitter\bin\Debug\pt\ZedGraph.resources.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Akashya Burhde_Twitter\Akzz_Twitter\Akzz_Twitter\bin\Debug\ru\ZedGraph.resources.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Akashya Burhde_Twitter\Akzz_Twitter\Akzz_Twitter\bin\Debug\sk\ZedGraph.resources.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Akashya Burhde_Twitter\Akzz_Twitter\Akzz_Twitter\bin\Debug\sv\ZedGraph.resources.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Akashya Burhde_Twitter\Akzz_Twitter\Akzz_Twitter\bin\Debug\tr\ZedGraph.resources.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Akashya Burhde_Twitter\Akzz_Twitter\Akzz_Twitter\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Akashya Burhde_Twitter\Akzz_Twitter\Akzz_Twitter\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Akashya Burhde_Twitter\Akzz_Twitter\Akzz_Twitter\obj\x86\Debug\Akzz_Twitter.exe
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Akashya Burhde_Twitter\Akzz_Twitter\Akzz_Twitter\obj\x86\Debug\Akzz_Twitter.pdb
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Akashya Burhde_Twitter\Akzz_Twitter\Akzz_Twitter\obj\x86\Debug\Akzz_Twitter.csprojResolveAssemblyReference.cache
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module2\Akzz_Twitter\obj\x86\Debug\Akzz_Twitter.exe
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module2\Akzz_Twitter\obj\x86\Debug\Akzz_Twitter.pdb
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module2\Akzz_Twitter\bin\Debug\Akzz_Twitter.exe
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module2\Akzz_Twitter\bin\Debug\Akzz_Twitter.pdb
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module2\Akzz_Twitter\bin\Debug\Microsoft.GLEE.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module2\Akzz_Twitter\bin\Debug\Microsoft.GLEE.Drawing.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module2\Akzz_Twitter\bin\Debug\Microsoft.GLEE.GraphViewerGDI.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module2\Akzz_Twitter\bin\Debug\Microsoft.Msagl.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module2\Akzz_Twitter\bin\Debug\OpenNLP.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module2\Akzz_Twitter\bin\Debug\SharpEntropy.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module2\Akzz_Twitter\bin\Debug\SharpEntropySqlite.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module2\Akzz_Twitter\bin\Debug\SharpWordNet.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module2\Akzz_Twitter\bin\Debug\System.Data.SQLite.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module2\Akzz_Twitter\bin\Debug\ZedGraph.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module2\Akzz_Twitter\bin\Debug\Microsoft.GLEE.pdb
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module2\Akzz_Twitter\bin\Debug\Microsoft.GLEE.Drawing.pdb
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module2\Akzz_Twitter\bin\Debug\Microsoft.GLEE.GraphViewerGDI.pdb
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module2\Akzz_Twitter\bin\Debug\ZedGraph.xml
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module2\Akzz_Twitter\bin\Debug\de\ZedGraph.resources.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module2\Akzz_Twitter\bin\Debug\es\ZedGraph.resources.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module2\Akzz_Twitter\bin\Debug\fr\ZedGraph.resources.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module2\Akzz_Twitter\bin\Debug\hu\ZedGraph.resources.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module2\Akzz_Twitter\bin\Debug\it\ZedGraph.resources.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module2\Akzz_Twitter\bin\Debug\ja\ZedGraph.resources.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module2\Akzz_Twitter\bin\Debug\pt\ZedGraph.resources.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module2\Akzz_Twitter\bin\Debug\ru\ZedGraph.resources.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module2\Akzz_Twitter\bin\Debug\sk\ZedGraph.resources.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module2\Akzz_Twitter\bin\Debug\sv\ZedGraph.resources.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module2\Akzz_Twitter\bin\Debug\tr\ZedGraph.resources.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module2\Akzz_Twitter\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module2\Akzz_Twitter\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module2\Akzz_Twitter\obj\x86\Debug\Akzz_Twitter.csprojResolveAssemblyReference.cache
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module2\Akzz_Twitter\obj\x86\Debug\Twitter_Event_Detection.Cluster_Graph.resources
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module2\Akzz_Twitter\obj\x86\Debug\Akzz_Twitter.Properties.Resources.resources
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module2\Akzz_Twitter\obj\x86\Debug\Twitter_Event_Detection.twitter_main.resources
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module2\Akzz_Twitter\obj\x86\Debug\Akzz_Twitter.csproj.GenerateResource.Cache
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module3\Akzz_Twitter\bin\Debug\Akzz_Twitter.exe
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module3\Akzz_Twitter\bin\Debug\Akzz_Twitter.pdb
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module3\Akzz_Twitter\bin\Debug\Microsoft.GLEE.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module3\Akzz_Twitter\bin\Debug\Microsoft.GLEE.Drawing.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module3\Akzz_Twitter\bin\Debug\Microsoft.GLEE.GraphViewerGDI.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module3\Akzz_Twitter\bin\Debug\Microsoft.Msagl.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module3\Akzz_Twitter\bin\Debug\OpenNLP.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module3\Akzz_Twitter\bin\Debug\SharpEntropy.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module3\Akzz_Twitter\bin\Debug\SharpEntropySqlite.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module3\Akzz_Twitter\bin\Debug\SharpWordNet.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module3\Akzz_Twitter\bin\Debug\System.Data.SQLite.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module3\Akzz_Twitter\bin\Debug\ZedGraph.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module3\Akzz_Twitter\bin\Debug\Microsoft.GLEE.pdb
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module3\Akzz_Twitter\bin\Debug\Microsoft.GLEE.Drawing.pdb
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module3\Akzz_Twitter\bin\Debug\Microsoft.GLEE.GraphViewerGDI.pdb
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module3\Akzz_Twitter\bin\Debug\ZedGraph.xml
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module3\Akzz_Twitter\bin\Debug\de\ZedGraph.resources.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module3\Akzz_Twitter\bin\Debug\es\ZedGraph.resources.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module3\Akzz_Twitter\bin\Debug\fr\ZedGraph.resources.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module3\Akzz_Twitter\bin\Debug\hu\ZedGraph.resources.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module3\Akzz_Twitter\bin\Debug\it\ZedGraph.resources.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module3\Akzz_Twitter\bin\Debug\ja\ZedGraph.resources.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module3\Akzz_Twitter\bin\Debug\pt\ZedGraph.resources.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module3\Akzz_Twitter\bin\Debug\ru\ZedGraph.resources.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module3\Akzz_Twitter\bin\Debug\sk\ZedGraph.resources.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module3\Akzz_Twitter\bin\Debug\sv\ZedGraph.resources.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module3\Akzz_Twitter\bin\Debug\tr\ZedGraph.resources.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module3\Akzz_Twitter\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module3\Akzz_Twitter\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module3\Akzz_Twitter\obj\x86\Debug\Akzz_Twitter.csprojResolveAssemblyReference.cache
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module3\Akzz_Twitter\obj\x86\Debug\Twitter_Event_Detection.Cluster_Graph.resources
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module3\Akzz_Twitter\obj\x86\Debug\Akzz_Twitter.Properties.Resources.resources
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module3\Akzz_Twitter\obj\x86\Debug\Twitter_Event_Detection.twitter_main.resources
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module3\Akzz_Twitter\obj\x86\Debug\Akzz_Twitter.csproj.GenerateResource.Cache
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module3\Akzz_Twitter\obj\x86\Debug\Akzz_Twitter.exe
+D:\Implant Solutions\Implant Projects\Dot-Net_Implant_2014\Pankaj_RMD\Twitter_module3\Akzz_Twitter\obj\x86\Debug\Akzz_Twitter.pdb
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3\Akzz_Twitter\obj\x86\Debug\Akzz_Twitter.exe
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3\Akzz_Twitter\obj\x86\Debug\Akzz_Twitter.pdb
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3\Akzz_Twitter\bin\Debug\Akzz_Twitter.exe
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3\Akzz_Twitter\bin\Debug\Akzz_Twitter.pdb
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3\Akzz_Twitter\bin\Debug\Microsoft.GLEE.pdb
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3\Akzz_Twitter\bin\Debug\Microsoft.GLEE.Drawing.pdb
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3\Akzz_Twitter\bin\Debug\Microsoft.GLEE.GraphViewerGDI.pdb
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3\Akzz_Twitter\bin\Debug\ZedGraph.xml
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3\Akzz_Twitter\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3\Akzz_Twitter\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3\Akzz_Twitter\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3\Akzz_Twitter\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3\Akzz_Twitter\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3\Akzz_Twitter\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3\Akzz_Twitter\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3\Akzz_Twitter\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3\Akzz_Twitter\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3\Akzz_Twitter\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3\Akzz_Twitter\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3\Akzz_Twitter\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3\Akzz_Twitter\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3\Akzz_Twitter\obj\x86\Debug\Akzz_Twitter.csprojResolveAssemblyReference.cache
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3\Akzz_Twitter\obj\x86\Debug\Twitter_Event_Detection.Cluster_Graph.resources
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3\Akzz_Twitter\obj\x86\Debug\Akzz_Twitter.Properties.Resources.resources
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3\Akzz_Twitter\obj\x86\Debug\Twitter_Event_Detection.twitter_main.resources
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3\Akzz_Twitter\obj\x86\Debug\Akzz_Twitter.csproj.GenerateResource.Cache
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3 on 17 June\Akzz_Twitter\obj\x86\Debug\Akzz_Twitter.exe
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3 on 17 June\Akzz_Twitter\obj\x86\Debug\Akzz_Twitter.pdb
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3 on 17 June\Akzz_Twitter\bin\Debug\Akzz_Twitter.exe
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3 on 17 June\Akzz_Twitter\bin\Debug\Akzz_Twitter.pdb
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3 on 17 June\Akzz_Twitter\bin\Debug\Microsoft.GLEE.pdb
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3 on 17 June\Akzz_Twitter\bin\Debug\Microsoft.GLEE.Drawing.pdb
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3 on 17 June\Akzz_Twitter\bin\Debug\Microsoft.GLEE.GraphViewerGDI.pdb
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3 on 17 June\Akzz_Twitter\bin\Debug\ZedGraph.xml
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3 on 17 June\Akzz_Twitter\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3 on 17 June\Akzz_Twitter\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3 on 17 June\Akzz_Twitter\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3 on 17 June\Akzz_Twitter\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3 on 17 June\Akzz_Twitter\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3 on 17 June\Akzz_Twitter\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3 on 17 June\Akzz_Twitter\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3 on 17 June\Akzz_Twitter\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3 on 17 June\Akzz_Twitter\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3 on 17 June\Akzz_Twitter\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3 on 17 June\Akzz_Twitter\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3 on 17 June\Akzz_Twitter\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3 on 17 June\Akzz_Twitter\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3 on 17 June\Akzz_Twitter\obj\x86\Debug\Akzz_Twitter.csprojResolveAssemblyReference.cache
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3 on 17 June\Akzz_Twitter\obj\x86\Debug\Twitter_Event_Detection.Cluster_Graph.resources
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3 on 17 June\Akzz_Twitter\obj\x86\Debug\Akzz_Twitter.Properties.Resources.resources
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3 on 17 June\Akzz_Twitter\obj\x86\Debug\Twitter_Event_Detection.twitter_main.resources
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3 on 17 June\Akzz_Twitter\obj\x86\Debug\Akzz_Twitter.csproj.GenerateResource.Cache
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3 on 18 June\Akzz_Twitter\obj\x86\Debug\Akzz_Twitter.exe
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3 on 18 June\Akzz_Twitter\obj\x86\Debug\Akzz_Twitter.pdb
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3 on 18 June\Akzz_Twitter\bin\Debug\Akzz_Twitter.exe
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3 on 18 June\Akzz_Twitter\bin\Debug\Akzz_Twitter.pdb
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3 on 18 June\Akzz_Twitter\bin\Debug\Microsoft.GLEE.pdb
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3 on 18 June\Akzz_Twitter\bin\Debug\Microsoft.GLEE.Drawing.pdb
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3 on 18 June\Akzz_Twitter\bin\Debug\Microsoft.GLEE.GraphViewerGDI.pdb
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3 on 18 June\Akzz_Twitter\bin\Debug\ZedGraph.xml
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3 on 18 June\Akzz_Twitter\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3 on 18 June\Akzz_Twitter\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3 on 18 June\Akzz_Twitter\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3 on 18 June\Akzz_Twitter\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3 on 18 June\Akzz_Twitter\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3 on 18 June\Akzz_Twitter\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3 on 18 June\Akzz_Twitter\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3 on 18 June\Akzz_Twitter\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3 on 18 June\Akzz_Twitter\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3 on 18 June\Akzz_Twitter\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3 on 18 June\Akzz_Twitter\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3 on 18 June\Akzz_Twitter\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3 on 18 June\Akzz_Twitter\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3 on 18 June\Akzz_Twitter\obj\x86\Debug\Akzz_Twitter.csprojResolveAssemblyReference.cache
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3 on 18 June\Akzz_Twitter\obj\x86\Debug\Twitter_Event_Detection.Cluster_Graph.resources
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3 on 18 June\Akzz_Twitter\obj\x86\Debug\Akzz_Twitter.Properties.Resources.resources
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3 on 18 June\Akzz_Twitter\obj\x86\Debug\Twitter_Event_Detection.twitter_main.resources
+C:\Users\admin\Downloads\Twitter_module3\Twitter_module3 on 18 June\Akzz_Twitter\obj\x86\Debug\Akzz_Twitter.csproj.GenerateResource.Cache
